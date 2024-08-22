@@ -27,6 +27,6 @@ Cover image:
 
 Enemies showcase:
 
-![1lEdy6](https://github.com/user-attachments/assets/3d9b81ca-cf19-4788-a95a-e0c6859f2b58)
-![IPd9g0](https://github.com/user-attachments/assets/bf6d9377-be14-46f8-b8a6-3ad29ee8b1ef)
-![x8a9pC](https://github.com/user-attachments/assets/0c8977d9-7497-4432-8859-58549f14eafc)
+![pHDYHa](https://github.com/user-attachments/assets/753b01cd-eb14-4e5a-a8ba-67c8361c5758)
+![WpOGsX](https://github.com/user-attachments/assets/44ccb50e-0624-41a4-978f-0d3e910a2301)
+![lUpqjr](https://github.com/user-attachments/assets/e3fad13c-e9c6-41ba-ab33-2e15a4892d08)
